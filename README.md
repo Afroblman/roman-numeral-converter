@@ -4,8 +4,8 @@ This is a solution to the freeCodeCamp JavaScript Algorithms and Data Structures
 
 ### Links
 
-- Solution URL: [Github](https://github.com/Afroblman/Palindrome-Checker.git)
-- Live Site URL: [Netlify](https://fcc-palindrome-checker.netlify.app/)
+- Solution URL: [Github](https://github.com/Afroblman/roman-numeral-converter.git)
+- Live Site URL: [Netlify](https://fcc-roman-numeral-converter.netlify.app/)
 
 ### Built with
 
